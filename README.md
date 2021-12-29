@@ -4,7 +4,7 @@
 
 This is a project for creating analytics around package development for [Foundry VTT](https://foundryvtt.com/) - a highly customisable virtual tabletop system, built primarily for use with tabletop roleplaying games.    
 The content should be of interest to the Foundry VTT community, especially visitors to the [Foundry Hub](https://www.foundryvtt-hub.com/) and members of the [League Of Extraordinary Foundry Developers](https://github.com/League-of-Foundry-Developers).   
-Please contact me if you would like to contribute.  
+Please <a href="mailto:will.bidstrup@gmail.com">contact me</a> if you would like to contribute or share any ideas.    
 
 
 ## Why
