@@ -21,7 +21,9 @@ I am intending to start by doing a variance of the 'package universe' each month
 In the first stage, we will iterate on the content of the database extract and the transformations needed for analytics.  
 
 
-<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/904a5f82-7c68-4f34-83b3-9b8001244504" id="0xbFsed-CJje"></iframe>
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/904a5f82-7c68-4f34-83b3-9b8001244504" id="0xbFsed-CJje">
+
+</iframe>
 
 ### The snapshot extract  
 
