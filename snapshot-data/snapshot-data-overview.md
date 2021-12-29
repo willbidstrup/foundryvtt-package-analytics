@@ -19,15 +19,36 @@ I am intending to start by doing a variance of the 'package universe' each month
 ## Stage 1: Comparing two points in time
 
 In the first stage, we will iterate on the content of the database extract and the transformations needed for analytics.  
+<br>  
 
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/904a5f82-7c68-4f34-83b3-9b8001244504" id="aGbFrIg~K9ea"></iframe>
-</div>
+<a href="https://lucid.app/documents/embeddedchart/904a5f82-7c68-4f34-83b3-9b8001244504" target="_blank"> Stage 1 architecture diagram </a>
 
 ### The snapshot extract  
 
 The extract from the Foundry Hub Database should have these qualities:  
 
+- Contain all currently active packages with following fields:
+
+**From the manifest file**
+
+- name  
+- title  
+- description  
+- version  
+- minimumCoreVersion  
+- compatibleCoreVersion  
+- authors  
+- languages  
+
+**From Foundry Hub**  
+- Tags  
+- Dedicated systems  
+- Type  
+- Installs percentage  
+- Systems  
+- Created  
+- Last updated  
 
 
 
